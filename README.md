@@ -1,3 +1,9 @@
+# Paytm API Using PHP
+
+**Verson 1.0**
+
+> Run `darshil_project.sql` file into your Addmin Pannel
+
 # How to install the sample kit on a web server:
  1. Copy PaytmKit folder in document root of your server (like /var/www/html)
  2. Open config_paytm.php file from the PaytmKit/lib folder and update the below constant values
